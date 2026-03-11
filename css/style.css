@@ -78,6 +78,7 @@ input {
 .header__wrap{
     display: flex;
     align-items: center;
+    
 }
 
 .header__logo{
@@ -168,6 +169,7 @@ input {
     padding: 1.9rem 0 1.9rem 1.9rem;
     padding-top: 1.9rem;
     padding-left: 1.9rem;
+    cursor: pointer;
 
 }   
 .main-display__trailer:hover, .aside__item:hover{
@@ -657,7 +659,7 @@ input {
     justify-content: center;
 }
 .active {
-    display: block;
+    display: flex;
 }
 
 /*сетка*/
